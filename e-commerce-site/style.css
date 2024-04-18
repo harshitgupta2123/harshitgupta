@@ -1,0 +1,17 @@
+.panda-card{
+    border: 0;
+}
+.panda-footer-card{
+     background-color: rgb(124, 75, 75);
+     border: 0;
+}
+
+ 
+.panda-slide .carousel-item{
+    background-color: #be837c;
+    border-radius: 1em;
+}
+
+.container{
+    background-color: #be837c;
+}
